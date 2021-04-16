@@ -1,6 +1,8 @@
 ### Hi 🍉
 
-#### 写代码 吃瓜 打篮球
+- 盱眙人
+- 写代码 吃瓜 打篮球
+
 <!--
 **chenc041/chenc041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
