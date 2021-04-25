@@ -4,6 +4,7 @@
 
 写代码 吃瓜 打篮球
 
+![Chenc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical)
 
 <!--
 **chenc041/chenc041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
