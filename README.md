@@ -1,6 +1,6 @@
 ### Hi 🍉
 
-写代码 吃瓜 钓鱼 打篮球
+coding fishing 🏀
 
 ![Chenc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical)
 
