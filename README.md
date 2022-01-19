@@ -1,6 +1,14 @@
 ### Hi 🍉
 
-coding fishing 🏀
+- coding 
+- fishing 
+- 🏀
+- nestjs
+- react
+- angular
+- rxjs
+- flutter
+- look at job opportunities
 
 ![Chenc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical)
 
