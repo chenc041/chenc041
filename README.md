@@ -1,6 +1,6 @@
 ### Hi 🍉
 
-- coding 
+-  coding 
 - fishing 
 - 🏀
 - nestjs
@@ -8,7 +8,7 @@
 - angular
 - rxjs
 - flutter
-- look at job opportunities
+- double_cl@163.com
 
 ![Chenc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical)
 
