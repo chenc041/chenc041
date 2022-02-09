@@ -1,11 +1,13 @@
 ### Hi 🍉
 
+<a href="https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical" />
+</a>
+
 - coding 
 - fishing 
 - 🏀
 - double_cl@163.com
-
-![Chenc's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenc041&show_icons=true&theme=radical)
 
 <!--
 **chenc041/chenc041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
