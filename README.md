@@ -8,6 +8,7 @@
 - fishing 
 - 🏀
 - double_cl@163.com
+- looking for a part-time job
 
 <!--
 **chenc041/chenc041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
