@@ -8,7 +8,7 @@
 - fishing 
 - 🏀
 - looking for a part-time job
-- reach me with chencheng0419@gamail.com or double_cl@163.com
+- reach me with chencheng0419@gmail.com or double_cl@163.com
 
 <!--
 **chenc041/chenc041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
