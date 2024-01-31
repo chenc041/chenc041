@@ -7,7 +7,7 @@
 - coding 
 - fishing 
 - 🏀
-- looking for a part-time job
+- looking for a part-time job or remote job
 - reach me with chencheng0419@gmail.com or double_cl@163.com
 
 <!--
